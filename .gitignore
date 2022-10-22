@@ -1,0 +1,11 @@
+# 忽略index-2.js这个文件
+index-2.js
+
+
+# 忽略text 目录下所有文件
+text/
+
+
+
+# 忽略test 目录下所有文件
+test/*.txt
